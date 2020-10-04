@@ -1,0 +1,790 @@
+fileFormatVersion: 2
+guid: 0586ff576f4ee2d4da16399cdf9a4dfe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8394101588551780029
+    second: Tilebits_0
+  - first:
+      213: 5139594185976548976
+    second: SteelBar_L
+  - first:
+      213: 8669775964003650914
+    second: SteelBar_L
+  - first:
+      213: 3990723961893389809
+    second: SteelBar_M
+  - first:
+      213: 2485247225967797197
+    second: SteelBar_R
+  - first:
+      213: -1283056110845269011
+    second: Tilebits_5
+  - first:
+      213: -2353045013951207682
+    second: FlatTop
+  - first:
+      213: 5752544655408669058
+    second: Tilebits_7
+  - first:
+      213: -1973965771590216858
+    second: Tilebits_8
+  - first:
+      213: 1005588056067816311
+    second: FlagTop
+  - first:
+      213: -3250950343286547552
+    second: FlagBase
+  - first:
+      213: -3113826048189442276
+    second: Bolt
+  - first:
+      213: -8239090973742425741
+    second: Tilebits_12
+  - first:
+      213: -5292626076702322666
+    second: Tilebits_13
+  - first:
+      213: 7955755684845132062
+    second: Tilebits_14
+  - first:
+      213: -6309003779290202775
+    second: Tilebits_15
+  - first:
+      213: 5683725544788263878
+    second: FlagBase
+  - first:
+      213: -5201946143120098071
+    second: Bolt
+  - first:
+      213: 7213650711550681875
+    second: Tilebits_18
+  - first:
+      213: -5415315981298795242
+    second: Tilebits_19
+  - first:
+      213: -622432916171626995
+    second: Tilebits_20
+  - first:
+      213: -263296600620266091
+    second: Tilebits_21
+  - first:
+      213: -169027380077724848
+    second: Tilebits_22
+  - first:
+      213: 5511103761223120083
+    second: Tilebits_23
+  - first:
+      213: -2758072309802753204
+    second: Tilebits_24
+  - first:
+      213: 5140558889056850294
+    second: Tilebits_25
+  - first:
+      213: -9115602518026131911
+    second: Tilebits_26
+  - first:
+      213: -6317401705598265028
+    second: Tilebits_27
+  - first:
+      213: -8929227990982890592
+    second: Tilebits_28
+  - first:
+      213: 493986252310926178
+    second: Tilebits_29
+  - first:
+      213: 616935127580476882
+    second: Tilebits_30
+  - first:
+      213: -7832181323357288885
+    second: Tilebits_31
+  - first:
+      213: -3074102256559380215
+    second: Tilebits_32
+  - first:
+      213: 7470100042065375811
+    second: Tilebits_33
+  - first:
+      213: -7618692973925906584
+    second: Tilebits_34
+  - first:
+      213: -3968482316186417594
+    second: Tilebits_35
+  - first:
+      213: -3873490929909419797
+    second: Tilebits_36
+  - first:
+      213: -7060391126414853435
+    second: Tilebits_37
+  - first:
+      213: 2775730569220101405
+    second: Tilebits_38
+  - first:
+      213: 5981601659685873650
+    second: Tilebits_39
+  - first:
+      213: 338343296017909989
+    second: Tilebits_40
+  - first:
+      213: -8329112423234482401
+    second: Tilebits_41
+  - first:
+      213: -4441683029312710522
+    second: Tilebits_42
+  - first:
+      213: 7055896968182417513
+    second: Tilebits_43
+  - first:
+      213: -3862462908468975176
+    second: Tilebits_44
+  - first:
+      213: 4852688923274332222
+    second: Tilebits_45
+  - first:
+      213: -8091615353868725836
+    second: Tilebits_46
+  - first:
+      213: -8295403912274446863
+    second: Tilebits_47
+  - first:
+      213: 1975374093134944599
+    second: Tilebits_48
+  - first:
+      213: -4034274397680306941
+    second: Tilebits_49
+  - first:
+      213: -946788301256907914
+    second: Tilebits_50
+  - first:
+      213: 8036000685872108391
+    second: Tilebits_51
+  - first:
+      213: -6678697550157304602
+    second: Tilebits_52
+  - first:
+      213: 2989973608866470828
+    second: Tilebits_53
+  - first:
+      213: -6883191177313643575
+    second: Tilebits_54
+  - first:
+      213: -6997408862446893762
+    second: Tilebits_55
+  - first:
+      213: -7381780549845994876
+    second: Tilebits_56
+  - first:
+      213: 2518309926942275109
+    second: Tilebits_57
+  - first:
+      213: -7155041439758648225
+    second: Tilebits_58
+  - first:
+      213: 8801615733495457345
+    second: Tilebits_59
+  - first:
+      213: 9213894748925129809
+    second: Tilebits_60
+  - first:
+      213: -4840330754473493307
+    second: Tilebits_61
+  - first:
+      213: -7503106666217982046
+    second: Tilebits_62
+  - first:
+      213: 8209116604569550328
+    second: Tilebits_63
+  - first:
+      213: -1018476862460181698
+    second: Tilebits_64
+  - first:
+      213: 1766189408771537843
+    second: Tilebits_65
+  - first:
+      213: 8290285070937733460
+    second: Tilebits_66
+  - first:
+      213: -581812132696297248
+    second: Tilebits_67
+  - first:
+      213: -5389887879686169651
+    second: Tilebits_68
+  - first:
+      213: 9089984930311876220
+    second: Tilebits_69
+  - first:
+      213: 1149088188310358842
+    second: Tilebits_70
+  - first:
+      213: -31256878060580875
+    second: Tilebits_71
+  - first:
+      213: 8729554742329878428
+    second: Tilebits_72
+  - first:
+      213: 7945632168880837966
+    second: Tilebits_73
+  - first:
+      213: -7619793134242636225
+    second: Tilebits_74
+  - first:
+      213: 6152360102577215305
+    second: Tilebits_75
+  - first:
+      213: -4718570644182677265
+    second: Tilebits_76
+  - first:
+      213: 3323195270478524635
+    second: Tilebits_77
+  - first:
+      213: 2116340734911182303
+    second: Tilebits_78
+  - first:
+      213: 1075543593566595904
+    second: Tilebits_79
+  - first:
+      213: -498139382919260238
+    second: Tilebits_80
+  - first:
+      213: 7666256279842979189
+    second: Tilebits_81
+  - first:
+      213: -5089004784818261877
+    second: Tilebits_82
+  - first:
+      213: -2244046465649123296
+    second: Tilebits_83
+  - first:
+      213: 6367433353223499384
+    second: Tilebits_84
+  - first:
+      213: -6665684036855145274
+    second: Tilebits_85
+  - first:
+      213: -6826756868027429671
+    second: Tilebits_86
+  - first:
+      213: 3959140476436917365
+    second: Tilebits_87
+  - first:
+      213: -5426829193157857292
+    second: Tilebits_88
+  - first:
+      213: 1078136474310319568
+    second: Tilebits_89
+  - first:
+      213: 3167848878481493016
+    second: Tilebits_90
+  - first:
+      213: -5719229335758632712
+    second: Tilebits_91
+  - first:
+      213: 4704556570025620590
+    second: Tilebits_92
+  - first:
+      213: 988534503048959188
+    second: Tilebits_93
+  - first:
+      213: 3464135818810736466
+    second: Tilebits_94
+  - first:
+      213: 5456724092304540692
+    second: Tilebits_95
+  - first:
+      213: -6469208810316026745
+    second: Tilebits_96
+  - first:
+      213: 7688632805589096719
+    second: Tilebits_97
+  - first:
+      213: 7794941952080283070
+    second: Tilebits_98
+  - first:
+      213: 5611707042303201334
+    second: Tilebits_99
+  - first:
+      213: 3905553224982590039
+    second: Tilebits_100
+  - first:
+      213: -263412921611459531
+    second: Tilebits_101
+  - first:
+      213: 5780735518443251799
+    second: Tilebits_102
+  - first:
+      213: 6086004089392652611
+    second: Tilebits_103
+  - first:
+      213: 8270561437718802360
+    second: Tilebits_104
+  - first:
+      213: -1083118693965067247
+    second: Tilebits_105
+  - first:
+      213: 525185296705052726
+    second: Tilebits_106
+  - first:
+      213: -6091682487842857834
+    second: Tilebits_107
+  - first:
+      213: -671975484985906170
+    second: Tilebits_108
+  - first:
+      213: -1286835901369074972
+    second: Tilebits_109
+  - first:
+      213: -9173438726968423526
+    second: Tilebits_110
+  - first:
+      213: 3493787197318735662
+    second: Tilebits_111
+  - first:
+      213: -3788723227150756615
+    second: Tilebits_112
+  - first:
+      213: 9045750031998847462
+    second: Tilebits_113
+  - first:
+      213: -4473729863152944772
+    second: Tilebits_114
+  - first:
+      213: 4065942875923224322
+    second: Tilebits_115
+  - first:
+      213: -2778985250145321697
+    second: Tilebits_116
+  - first:
+      213: 1628259733982752118
+    second: Tilebits_117
+  - first:
+      213: -1029000820768455004
+    second: Tilebits_118
+  - first:
+      213: 8593027698109131861
+    second: Tilebits_119
+  - first:
+      213: -727355943213920540
+    second: Tilebits_0
+  - first:
+      213: 2078435890951434784
+    second: SteelBar_L
+  - first:
+      213: 6683620341590701148
+    second: SteelBar_M
+  - first:
+      213: 1690549351361637195
+    second: SteelBar_R
+  - first:
+      213: 414751905625887473
+    second: Tilebits_4
+  - first:
+      213: -1559379209454997386
+    second: Tilebits_5
+  - first:
+      213: 1020149056400879587
+    second: FlatTop
+  - first:
+      213: -9220617023635697670
+    second: Tilebits_7
+  - first:
+      213: -485661468528785538
+    second: Tilebits_8
+  - first:
+      213: 9070498816719280564
+    second: Tilebits_9
+  - first:
+      213: -5641320264986081525
+    second: FlagBase
+  - first:
+      213: 3158046100729996280
+    second: Bolt
+  - first:
+      213: 6580699441734844041
+    second: Tilebits_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilebits_0
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee07739f99e7e5f0800000000000000
+      internalID: -727355943213920540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteelBar_L
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02235984e6618dc10800000000000000
+      internalID: 2078435890951434784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteelBar_M
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54b6121a4df0cc50800000000000000
+      internalID: 6683620341590701148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteelBar_R
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b6d2b9da9067710800000000000000
+      internalID: 1690549351361637195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilebits_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f25fb429ae71c500800000000000000
+      internalID: 414751905625887473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilebits_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6703e46fed8fb5ae0800000000000000
+      internalID: -1559379209454997386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatTop
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef69bc692c482e00800000000000000
+      internalID: 1020149056400879587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilebits_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff46408ba9c90080800000000000000
+      internalID: -9220617023635697670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilebits_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e774f3fa7759249f0800000000000000
+      internalID: -485661468528785538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilebits_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b95722cd92e0ed70800000000000000
+      internalID: 9070498816719280564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagBase
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07ca45ab1106b1b0800000000000000
+      internalID: -5641320264986081525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3a1525232a3db20800000000000000
+      internalID: 3158046100729996280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilebits_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e7736b647535b50800000000000000
+      internalID: 6580699441734844041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
